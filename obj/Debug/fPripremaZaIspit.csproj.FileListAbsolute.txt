@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\bin\Debug\fPripremaZaIspit.exe.config
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\bin\Debug\fPripremaZaIspit.exe
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\bin\Debug\fPripremaZaIspit.pdb
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.Form1.resources
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.Properties.Resources.resources
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.csproj.GenerateResource.cache
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.exe
+D:\Visual Studio\C#\fPripremaZaIspit\fPripremaZaIspit\obj\Debug\fPripremaZaIspit.pdb
